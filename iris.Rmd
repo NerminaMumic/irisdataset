@@ -1,0 +1,19 @@
+---
+title: "the iris data set"
+author: "Nermina Mumic"
+date: "26 September 2017"
+output: pdf_document
+#bibliography: bibligraphy.bib
+---
+
+```{r setup, include =TRUE}
+library("xtable")
+library("stargazer")
+data("iris")
+```
+
+***
+
+##Description
+
+
